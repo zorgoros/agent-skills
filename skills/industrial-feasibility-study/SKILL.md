@@ -1,6 +1,7 @@
 ---
 name: industrial-feasibility-study
 description: "Prepare, review, or update industrial feasibility studies and techno-economic investment appraisals for factories and production projects. Build auditable project cash-flow models and investor meeting briefs. Use for طرح توجیهی صنعتی، امکان‌سنجی فنی و اقتصادی، بررسی طرح توجیهی، تحلیل سرمایه‌گذاری کارخانه."
+license: MIT
 ---
 
 # Industrial feasibility study

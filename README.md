@@ -29,3 +29,9 @@ If your agent has no native skill loader, attach `SKILL.md`, the relevant files 
 ورودی می‌تواند گزارش موجود، فایل مدل مالی یا شرح اولیه طرح باشد. برای گزارش فارسی، درخواستت را فارسی بنویس و در صورت نیاز فرمت خروجی را مشخص کن.
 
 The text workflow has no required plugin, API key, or script. PDF inspection, fresh research and spreadsheet generation depend on the host's tools. The skill specifies how to proceed when those tools are unavailable.
+
+## Contribute
+
+Keep each skill in its own `skills/<id>/` directory using the [Agent Skills specification](https://agentskills.io/specification). Update the catalogue above and include a short example prompt. In your pull request, state which agents you tried and what happened. Use synthetic or permission-cleared examples. Keep private reports, credentials, personal paths, and internal notes out of the public repository.
+
+The collection is available under the [MIT License](LICENSE). Preserve the license notice when redistributing a skill.
